@@ -1,0 +1,3 @@
+name: Ivan      | sname: Ivanov    | age: 30| salary: 30000
+name: Sergey    | sname: Bodrov    | age: 31| salary: 70000
+name: Maxim     | sname: Mantrov   | age: 27| salary: 40000
